@@ -1,6 +1,6 @@
 WeCanCodeIt Graded Assignment #2
 
-Wally's Virtual Pet Shelter n' Company!
+Wally's Virtual Pet Shelter!
 
 -This application has 3 classes: VirtualPetShelterApp, VirtualPetShelter, and VirtualPet
 
