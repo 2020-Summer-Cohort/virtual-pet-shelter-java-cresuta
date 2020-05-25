@@ -19,6 +19,14 @@ public class VirtualPet {
         this.boredom += random.nextInt(75);
     }
 
+    public VirtualPet(String name, String description, int hunger, int thirst, int boredom){
+        this.name = name;
+        this.description = description;
+        this.hunger = hunger;
+        this.thirst = thirst;
+        this.boredom = boredom;
+    }
+
     public String getName() {
         return name;
     }
